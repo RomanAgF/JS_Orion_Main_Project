@@ -1,3 +1,4 @@
+"use strict";
 let myAudio = new Audio("./music/fon-music.mp3");
 myAudio.play();
 const music = document.createElement("div");
